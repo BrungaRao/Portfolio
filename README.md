@@ -22,5 +22,6 @@ The purpose of this project is to present my technical skills and academic journ
 ## Author
 Brunga S Rao
 
-GitHub: https://github.com/brungarao  
+Mobile : +91 9483083934
+Email : brungarao2004@gmail.com  
 LinkedIn: https://www.linkedin.com/in/brunga-s-rao-8713b7284
