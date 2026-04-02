@@ -1,5 +1,5 @@
 # Portfolio Website
-This is my personal portfolio website built to showcase my education, skills, projects, certifications, and achievements as a BCA student.
+A responsive personal portfolio website developed to present my academic background, technical skills, projects, certifications, and achievements. Designed with modern UI using HTML, CSS, Bootstrap, and JavaScript, along with smooth animations and a clean layout.
 
 ## Technologies Used
 - HTML
@@ -16,12 +16,8 @@ This is my personal portfolio website built to showcase my education, skills, pr
 - Skills and achievements section
 - Contact and social links
 
-## Purpose
-The purpose of this project is to present my technical skills and academic journey in a professional and interactive way.
-
 ## Author
-Brunga S Rao
-
-Mobile : +91 9483083934
-Email : brungarao2004@gmail.com  
-LinkedIn: https://www.linkedin.com/in/brunga-s-rao-8713b7284
+- Brunga S Rao
+- Mobile : +91 9483083934
+- Email : brungarao2004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/brunga-s-rao-8713b7284
